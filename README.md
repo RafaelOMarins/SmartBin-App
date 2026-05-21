@@ -49,19 +49,16 @@ This mobile application acts as the interface between the user and the SmartBin 
 
 Project developed as a team:
 
-- Alan de Lima Rodrigues → [@GITHUB](https://github.com/AlanLRodrigues)
+- Alan de Lima Rodrigues → [GitHub](https://github.com/AlanLRodrigues)
 
-- Daniel Freire de Sousa  
-  [GitHub]
+- Daniel Freire de Sousa → [GitHub](https://github.com/) 
+ 
+- Guilherme Santos Coelho → [GitHub](https://github.com/)
 
-- Guilherme Santos Coelho  
-  [GitHub]
-
-- Miqueias Felipe Marques Quesado  
-  [GitHub]
-
-- Rafael de Oliveira Marins  
-  [GitHub] (https://github.com/RafaelOMarins)
+- Miqueias Felipe Marques Quesado → [GitHub](https://github.com/)  
+  
+- Rafael de Oliveira Marins → [GitHub](https://github.com/RafaelOMarins)  
+ 
 
 ---
 
